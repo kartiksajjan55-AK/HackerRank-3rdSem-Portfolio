@@ -32,21 +32,56 @@
 
 ## HackerRank Submission Screenshots
 
-### Diagonal Difference
-Add Accepted submission screenshot here.
+### 1. Diagonal Difference
 
-### Dynamic Array
-Add Accepted submission screenshot here.
+![Diagonal Difference](./screenshots/diagonal-difference.png)
 
-### Time Conversion
-Add Accepted submission screenshot here.
+### 2. Dynamic Array
 
-### Compare the Triplets
-Add Accepted submission screenshot here.
+![Dynamic Array](./screenshots/dynamic-array.png)
 
-### Sparse Arrays
-Add Accepted submission screenshot here.
+### 3. Time Conversion
 
-## HackerRank Badges
+![Time Conversion](./screenshots/time-conversion.png)
 
-Add your HackerRank badge screenshot here.
+### 4. Compare the Triplets
+
+![Compare the Triplets](./screenshots/compare-the-triplets.png)
+
+### 5. Sparse Arrays
+
+![Sparse Arrays](./screenshots/sparse-arrays.png)
+
+## HackerRank Badge
+
+![HackerRank Problem Solving Badge](./screenshots/hackerrank-badge.png)
+
+## Repository Structure
+
+```text
+HackerRank-3rdSem-Portfolio/
+│
+├── Diagonal-Difference/
+│   └── diagonal-difference.cpp
+│
+├── Dynamic-Array/
+│   └── dynamic-array.cpp
+│
+├── Time-Conversion/
+│   └── time-conversion.cpp
+│
+├── Compare-the-Triplets/
+│   └── compare-the-triplets.cpp
+│
+├── Sparse-Arrays/
+│   └── sparse-arrays.cpp
+│
+├── screenshots/
+│   ├── diagonal-difference.png
+│   ├── dynamic-array.png
+│   ├── time-conversion.png
+│   ├── compare-the-triplets.png
+│   ├── sparse-arrays.png
+│   └── hackerrank-badge.png
+│
+└── README.md
